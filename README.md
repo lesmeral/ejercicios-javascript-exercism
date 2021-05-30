@@ -1,0 +1,1 @@
+Este repositorio contiene ejercicios desarrollados en exercism para la clase buenas prácticas, en el lenguaje javascript.
